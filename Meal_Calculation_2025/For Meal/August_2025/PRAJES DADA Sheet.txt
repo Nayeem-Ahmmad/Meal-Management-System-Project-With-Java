@@ -1,0 +1,13 @@
+
+
+Account Name : PRAJES DADA
+Date                      Name                 Meal         Total_Meal      Balance         Total Balance        Market_Balance       Total_market_balance Comment        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+01 August 2025 10:57 PM   PRAJES DADA          0.00         0.00            0.00            0.00                 0.00                 0.00                 null           
+01 August 2025, 10:58 PM  PRAJES DADA          2.00         2.00            0.00            0.00                 0.00                 0.00                 buya ase nai   
+03 August 2025, 06:19 AM  PRAJES DADA          0.00         2.00            0.00            0.00                 0.00                 0.00                 gto kal        
+03 August 2025, 11:22 PM  PRAJES DADA          1.00         3.00            0.00            0.00                 0.00                 0.00                 0              
+05 August 2025, 11:19 AM  PRAJES DADA          1.50         4.50            0.00            0.00                 0.00                 0.00                 got kaler meal 
+05 August 2025, 11:14 PM  PRAJES DADA          1.50         6.00            0.00            0.00                 0.00                 0.00                 0              
+06 August 2025, 11:41 PM  PRAJES DADA          1.00         7.00            0.00            0.00                 0.00                 0.00                 0              
+31 August 2025, 10:08 PM  PRAJES DADA          48.50        55.50           2450.00         2450.00              0.00                 0.00                                

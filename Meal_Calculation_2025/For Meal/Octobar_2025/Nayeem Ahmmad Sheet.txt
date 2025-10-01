@@ -1,0 +1,8 @@
+
+
+Account Name : Nayeem Ahmmad
+Date                      Name                 Meal         Total_Meal      Balance         Total Balance        Market_Balance       Total_market_balance Comment        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+01 October 2025 11:40 PM  Nayeem Ahmmad        0.00         0.00            0.00            0.00                 0.00                 0.00                 null           
+01 October 2025, 11:41 PM Nayeem Ahmmad        1.00         1.00            1000.00         1000.00              1150.00              1150.00              0              
+01 October 2025, 11:45 PM Nayeem Ahmmad        0.00         1.00            0.00            1000.00              0.00                 1150.00              4              

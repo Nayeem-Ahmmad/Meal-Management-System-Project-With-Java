@@ -1,0 +1,25 @@
+
+
+Account Name : PRAJES DADA
+Date                      Name                 Meal         Total_Meal      Balance         Total Balance        Market_Balance       Total_market_balance Comment        
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+01/06/2025 13:20 PM       PRAJES DADA          0.00         0.00            0.00            0.00                 0.00                 0.00                 null           
+01/06/2025 21:28 PM       PRAJES DADA          3.50         3.50            1560.00         1560.00              560.00               560.00               null           
+02/06/2025 23:43 PM       PRAJES DADA          0.00         3.50            0.00            1560.00              0.00                 560.00               Basay akhn o se nai
+15 June 2025, 11:21 PM    PRAJES DADA          16.00        19.50           452.00          2032.00              1032.00              1592.00              3 up to 15     
+16 June 2025, 10:23 PM    PRAJES DADA          1.50         21.00           0.00            2032.00              0.00                 1592.00              no comment     
+17 June 2025, 11:43 PM    PRAJES DADA          2.00         23.00           0.00            2032.00              0.00                 1592.00              Buya aj asche  
+18 June 2025, 11:26 PM    PRAJES DADA          2.00         25.00           0.00            2032.00              0.00                 1592.00              null           
+19 June 2025, 10:23 PM    PRAJES DADA          1.00         26.00           0.00            2032.00              0.00                 1592.00              rate gas nai   
+20 June 2025, 11:23 PM    PRAJES DADA          0.00         26.00           0.00            2032.00              0.00                 1592.00              meal off       
+21 June 2025, 11:42 PM    PRAJES DADA          1.00         27.00           0.00            2032.00              0.00                 1592.00              null           
+22 June 2025, 11:12 PM    PRAJES DADA          2.00         29.00           0.00            2032.00              0.00                 1592.00              null           
+23 June 2025, 11:51 PM    PRAJES DADA          2.00         31.00           0.00            2032.00              0.00                 1592.00              0              
+24 June 2025, 11:25 PM    PRAJES DADA          2.00         33.00           0.00            2032.00              0.00                 1592.00              0              
+26 June 2025, 12:32 AM    PRAJES DADA          2.00         35.00           0.00            2032.00              0.00                 1592.00              gto kal ker    
+26 June 2025, 09:05 PM    PRAJES DADA          2.00         37.00           0.00            2032.00              0.00                 1592.00              0              
+27 June 2025, 10:36 PM    PRAJES DADA          2.00         39.00           0.00            2032.00              0.00                 1592.00              0              
+28 June 2025, 08:19 PM    PRAJES DADA          2.00         41.00           0.00            2032.00              0.00                 1592.00              0              
+29 June 2025, 08:13 PM    PRAJES DADA          2.00         43.00           0.00            2032.00              0.00                 1592.00              0              
+29 June 2025, 08:30 PM    PRAJES DADA          0.00         43.00           0.00            2032.00              0.00                 1592.00              4              
+30 June 2025, 07:51 PM    PRAJES DADA          2.00         45.00           0.00            2032.00              0.00                 1592.00              0              
