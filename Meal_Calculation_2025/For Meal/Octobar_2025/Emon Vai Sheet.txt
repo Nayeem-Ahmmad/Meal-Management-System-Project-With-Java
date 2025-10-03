@@ -7,3 +7,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 01 October 2025, 11:41 PM Emon Vai             0.00         0.00            0.00            0.00                 0.00                 0.00                 0              
 01 October 2025, 11:45 PM Emon Vai             0.00         0.00            0.00            0.00                 0.00                 0.00                 4              
 02 October 2025, 11:33 PM Emon Vai             2.00         2.00            0.00            0.00                 0.00                 0.00                 0              
+03 October 2025, 02:34 PM Emon Vai             2.00         4.00            0.00            0.00                 0.00                 0.00                 0              
