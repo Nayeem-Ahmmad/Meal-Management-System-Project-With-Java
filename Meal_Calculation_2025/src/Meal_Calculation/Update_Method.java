@@ -121,7 +121,7 @@ public class Update_Method {
 
             switch (chose) {
                 case 1: {
-                    System.out.print("Enter today meal for " + name + " : ");
+                    System.out.print("Today meal for " + name + " : ");
                     double newMeal = input.nextDouble();
                     input.nextLine();
 
@@ -133,11 +133,11 @@ public class Update_Method {
                     break;
                 }
                 case 2: {
-                    System.out.print("Enter today meal for " + name + " : ");
+                    System.out.print("Today meal for " + name + " : ");
                     double newMeal = input.nextDouble();
                     input.nextLine();
 
-                    System.out.print("Enter today new Balance Add for " + name + " : ");
+                    System.out.print("Add Balance for " + name + " : ");
                     double newBalance = input.nextDouble();
                     input.nextLine();
 
@@ -149,15 +149,15 @@ public class Update_Method {
                     break;
                 }
                 case 3: {
-                    System.out.print("Enter today meal for " + name + " : ");
+                    System.out.print("Today meal for " + name + " : ");
                     double newMeal = input.nextDouble();
                     input.nextLine();
 
-                    System.out.print("Enter today new Balance Add for " + name + " : ");
+                    System.out.print("Add Balance for " + name + " : ");
                     double newBalance = input.nextDouble();
                     input.nextLine();
 
-                    System.out.print("Enter today new Market Balance for " + name + " : ");
+                    System.out.print("Add Market Balance for " + name + " : ");
                     double newMarket_balance = input.nextDouble();
                     input.nextLine();
 
