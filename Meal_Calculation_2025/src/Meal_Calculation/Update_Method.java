@@ -227,7 +227,7 @@ public class Update_Method {
             write.format("Meal rate : %.2f\n", meal_rate);
             write.format("Extra : %.2f\n\n", baki);
             //write.format("%-20s %-10s %-10s %-13s %-12s %-10s %-10s\n", "Person", "Meal", "Balance", "Meal Balance", "Extra gain", "Get Money", "Pay Money");
-            write.format("%-20s %-10s %-10s %-13s %-20s\n", "Person", "Meal", "Balance", "Meal_Balance", "Pay(-) or Gate(+)");
+            write.format("%-20s %-10s %-10s %-13s %-20s\n", "Person", "Meal", "Balance", "Meal Cost(BDT)", "Pay(-) or Gate(+)");
             write.format("-----------------------------------------------------------------------------------------\n");
 
             for (String name : personList.keySet()) {
