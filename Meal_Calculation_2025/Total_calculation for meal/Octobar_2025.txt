@@ -2,22 +2,22 @@
 
 Last Update               Total Meal           Total Balance        Total Market Balance
 -----------------------------------------------------------------------------------------
-04 October 2025, 11:28 PM 19.00                1500.00              1480.00             
+05 October 2025, 07:55 PM 25.00                2500.00              2390.00             
 
 
 
                          STATEMENT FOR ALL MEMEBERS
 
-Meal rate : 78.95
-Extra : 20.00
+Meal rate : 100.00
+Extra : 110.00
 
 Person               Meal       Balance    Meal Cost(BDT) Pay(-) or Gate(+)   
 -----------------------------------------------------------------------------------------
-Rahi Vai             0.00       0.00       0.00          0.00                
-Emon Vai             6.00       0.00       473.68        -473.68             
-Enamul Hoque         6.00       500.00     473.68        26.32               
-Prajes Dada          0.00       0.00       0.00          0.00                
-Nayeem Ahmmad        7.00       1000.00    552.63        447.37              
+Rahi Vai             0.50       0.00       50.00         -50.00              
+Emon Vai             7.50       500.00     750.00        -250.00             
+Enamul Hoque         6.50       1000.00    650.00        350.00              
+Prajes Dada          1.50       0.00       150.00        -150.00             
+Nayeem Ahmmad        9.00       1000.00    900.00        100.00              
 
 Get money is 0.00 BDT and Pay money is 0.00 BDT
 Difference between Get and Pay money is : 0.00
