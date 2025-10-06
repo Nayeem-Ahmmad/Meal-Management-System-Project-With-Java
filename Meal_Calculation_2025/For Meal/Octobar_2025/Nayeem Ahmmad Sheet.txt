@@ -10,3 +10,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 03 October 2025, 02:34 PM Nayeem Ahmmad        2.00         5.00            0.00            1000.00              40.00                1480.00              murgi+krola    
 04 October 2025, 11:28 PM Nayeem Ahmmad        2.00         7.00            0.00            1000.00              0.00                 1480.00              telapita       
 05 October 2025, 07:55 PM Nayeem Ahmmad        2.00         9.00            0.00            1000.00              910.00               2390.00              telapiya+dal   
+06 October 2025, 10:33 PM Nayeem Ahmmad        2.00         11.00           0.00            1000.00              50.00                2440.00              panggas + puisak
