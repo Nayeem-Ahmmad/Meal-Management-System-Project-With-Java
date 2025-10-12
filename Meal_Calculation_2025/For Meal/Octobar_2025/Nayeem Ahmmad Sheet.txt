@@ -13,3 +13,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 06 October 2025, 10:33 PM Nayeem Ahmmad        2.00         11.00           0.00            1000.00              50.00                2440.00              panggas + puisak
 07 October 2025, 09:20 PM Nayeem Ahmmad        1.00         12.00           0.00            1000.00              150.00               2590.00              panggas+kumra  
 11 October 2025, 11:49 PM Nayeem Ahmmad        0.50         12.50           0.00            1000.00              0.00                 2590.00              buya ase nai   
+12 October 2025, 11:46 PM Nayeem Ahmmad        2.00         14.50           0.00            1000.00              35.00                2625.00              gura mach + alu + dal

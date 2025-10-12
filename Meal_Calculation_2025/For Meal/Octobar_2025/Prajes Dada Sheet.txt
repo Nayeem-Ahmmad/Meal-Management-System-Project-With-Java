@@ -13,3 +13,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 06 October 2025, 10:33 PM Prajes Dada          2.00         3.50            1500.00         1500.00              0.00                 0.00                 bajarer jnno 1500 tk dichi
 07 October 2025, 09:20 PM Prajes Dada          2.00         5.50            0.00            1500.00              1678.00              1678.00              0              
 11 October 2025, 11:49 PM Prajes Dada          5.00         10.50           0.00            1500.00              545.00               2223.00              0              
+12 October 2025, 11:46 PM Prajes Dada          2.00         12.50           0.00            1500.00              20.00                2243.00              0              
