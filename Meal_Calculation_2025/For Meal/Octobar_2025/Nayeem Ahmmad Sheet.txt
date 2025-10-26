@@ -18,3 +18,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 15 October 2025, 10:12 PM Nayeem Ahmmad        3.50         19.50           0.00            2000.00              0.00                 2755.00              murgi + dal + lau..prajes 500 diche
 16 October 2025, 11:16 PM Nayeem Ahmmad        2.00         21.50           0.00            2000.00              0.00                 2755.00              murgi + alu    
 17 October 2025, 09:32 PM Nayeem Ahmmad        2.00         23.50           0.00            2000.00              0.00                 2755.00              mach + kocu    
+26 October 2025, 09:19 PM Nayeem Ahmmad        2.00         25.50           100.00          2100.00              785.00               3540.00              dal            
