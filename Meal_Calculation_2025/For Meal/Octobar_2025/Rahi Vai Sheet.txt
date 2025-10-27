@@ -19,3 +19,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 16 October 2025, 11:16 PM Rahi Vai             1.00         9.50            0.00            1000.00              110.00               940.00               0              
 17 October 2025, 09:32 PM Rahi Vai             2.00         11.50           0.00            1000.00              870.00               1810.00              ajke 870 tk r bajar korche
 26 October 2025, 09:19 PM Rahi Vai             8.00         19.50           300.00          1300.00              0.00                 1810.00              0              
+27 October 2025, 11:19 PM Rahi Vai             0.50         20.00           0.00            1300.00              0.00                 1810.00              0              
