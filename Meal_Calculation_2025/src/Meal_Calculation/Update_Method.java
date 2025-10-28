@@ -43,7 +43,7 @@ public class Update_Method {
             return;
         }
 
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd MMMM yyyy, hh:mm a");
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd MMMM yyyy");
         String date = LocalDateTime.now().format(formatter);
 
         for (File file : files) {
