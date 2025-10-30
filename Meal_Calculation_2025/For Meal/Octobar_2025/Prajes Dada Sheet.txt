@@ -21,3 +21,5 @@ Date                      Name                 Meal         Total_Meal      Bala
 26 October 2025, 09:19 PM Prajes Dada          15.00        36.50           470.00          2470.00              470.00               2793.00              0              
 27 October 2025, 11:19 PM Prajes Dada          2.00         38.50           0.00            2470.00              0.00                 2793.00              0              
 28 October 2025           Prajes Dada          2.00         40.50           0.00            2470.00              0.00                 2793.00              0              
+30 October 2025           Prajes Dada          2.00         42.50           0.00            2470.00              0.00                 2793.00              gto kal ar     
+30 October 2025           Prajes Dada          1.00         43.50           100.00          2570.00              0.00                 2793.00                             
