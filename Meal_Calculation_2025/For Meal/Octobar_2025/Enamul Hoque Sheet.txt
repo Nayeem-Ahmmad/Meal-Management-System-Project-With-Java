@@ -23,3 +23,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 28 October 2025           Enamul Hoque         0.00         27.00           0.00            1600.00              0.00                 0.00                 0              
 30 October 2025           Enamul Hoque         0.00         27.00           0.00            1600.00              0.00                 0.00                 0              
 30 October 2025           Enamul Hoque         0.00         27.00           0.00            1600.00              0.00                 0.00                 0              
+01 November 2025          Enamul Hoque         0.00         27.00           0.00            1600.00              0.00                 0.00                 0              

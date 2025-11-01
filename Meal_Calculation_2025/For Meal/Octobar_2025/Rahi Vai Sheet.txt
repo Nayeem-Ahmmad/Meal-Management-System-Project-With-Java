@@ -23,3 +23,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 28 October 2025           Rahi Vai             1.00         21.00           0.00            1300.00              0.00                 1810.00              0              
 30 October 2025           Rahi Vai             0.50         21.50           0.00            1300.00              0.00                 1810.00              gto kal ar     
 30 October 2025           Rahi Vai             1.00         22.50           0.00            1300.00              0.00                 1810.00              0              
+01 November 2025          Rahi Vai             1.50         24.00           0.00            1300.00              0.00                 1810.00              0              

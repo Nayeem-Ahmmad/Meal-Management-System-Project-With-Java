@@ -23,3 +23,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 28 October 2025           Emon Vai             2.00         43.50           0.00            2015.00              0.00                 1015.00              0              
 30 October 2025           Emon Vai             2.00         45.50           0.00            2015.00              0.00                 1015.00              gto kal ar     
 30 October 2025           Emon Vai             2.00         47.50           0.00            2015.00              0.00                 1015.00              0              
+01 November 2025          Emon Vai             1.50         49.00           0.00            2015.00              0.00                 1015.00              0              

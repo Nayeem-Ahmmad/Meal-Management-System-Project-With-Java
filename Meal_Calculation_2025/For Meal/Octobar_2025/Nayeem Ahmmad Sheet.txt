@@ -23,3 +23,4 @@ Date                      Name                 Meal         Total_Meal      Bala
 28 October 2025           Nayeem Ahmmad        1.50         29.00           0.00            2100.00              270.00               3830.00              murgi          
 30 October 2025           Nayeem Ahmmad        2.00         31.00           0.00            2100.00              0.00                 3830.00              gto kal + mach 
 30 October 2025           Nayeem Ahmmad        1.50         32.50           30.00           2130.00              130.00               3960.00              0              
+01 November 2025          Nayeem Ahmmad        2.00         34.50           0.00            2130.00              0.00                 3960.00              0              
